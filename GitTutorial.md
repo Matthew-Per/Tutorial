@@ -71,3 +71,8 @@ Resolving these conflicts then doing either `git commit` or `git merge --continu
 
 ## An Example
 Here is a quick little tutorial from initialization to branching.
+
+![image](init.png)
+![image](commit.png)
+![image](pushandbranch.png)
+![image](merge.png)
